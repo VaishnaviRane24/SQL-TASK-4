@@ -2,13 +2,12 @@
 
 # Task 4 – Aggregate Functions & Grouping (SQL Internship)
 
----
+
 ## Objective : Use **aggregate functions** (`SUM`, `COUNT`, `AVG`, `MAX`, etc.) and **GROUP BY** in SQL to summarize and analyze data.
 
----
+
 ## Tools Used : **MySQL Workbench** 
 
----
 
 ## Table Data
 
